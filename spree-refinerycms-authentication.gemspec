@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency 'spree_core', '~> 3.0'
-  s.add_runtime_dependency 'refinerycms-core', ['>= 3.0.6', '< 5.0']
+  s.add_runtime_dependency 'refinerycms-core', ['>= 3.0.5', '< 5.0']
   s.add_runtime_dependency 'zilch-authorisation', '>= 0.0.1'
   s.add_runtime_dependency 'decorators', '~> 2.0'
   s.add_runtime_dependency 'deface', '~> 1.0.0'
